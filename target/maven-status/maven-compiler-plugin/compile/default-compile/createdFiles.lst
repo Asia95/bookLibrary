@@ -1,0 +1,13 @@
+com\book\exception\ResourceNotFoundException.class
+com\book\service\IBookLibraryService.class
+com\book\model\Book.class
+com\book\exception\CustomRestExceptionHandler.class
+com\book\InitLibrary.class
+com\book\controller\BookLibraryController.class
+com\book\model\AuthorRating.class
+com\book\repository\BookLibraryRepository.class
+com\book\Application.class
+com\book\model\BookLibrary.class
+com\book\exception\ApiError.class
+com\book\serialize\BookSerializer.class
+com\book\service\BookLibraryService.class
